@@ -6,3 +6,8 @@
 2. 미세먼지가 가장 많은 지역
 3. 미세먼지가 가장 적은 지역
 4. 기간별 주요 지역의 평균량, 최대값, 최소값
+
+
+### 공공데이터 csv 파일
+
+![image](https://user-images.githubusercontent.com/88304798/143754575-21de5be1-d3dd-4ec7-b13e-0a4837e31e1f.png)
